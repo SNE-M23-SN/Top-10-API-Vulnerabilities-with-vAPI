@@ -25,12 +25,10 @@ For each vulnerability, the guide provides detailed explanations, step-by-step e
 ## Getting Started
 To get started with the "Exploiting the Top 10 API Vulnerabilities with vAPI" guide, please visit the dedicated GitHub Pages site:
 
-[Exploiting the Top 10 API Vulnerabilities with vAPI](https://your-github-username.github.io/top-10-api-vulnerabilities-vapi/)
+[Exploiting the Top 10 API Vulnerabilities with vAPI](https://sne-m23-sn.github.io/Top-10-API-Vulnerabilities-with-vAPI/)
 
 The GitHub Pages site will provide you with the complete guide, including detailed instructions, code examples, and resources to help you effectively exploit and understand the top 10 API vulnerabilities.
 
 ## Contributing
-If you have any suggestions, feedback, or would like to contribute to the development of this guide, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-github-username/top-10-api-vulnerabilities-vapi).
+If you have any suggestions, feedback, or would like to contribute to the development of this guide, please feel free to open an issue or submit a pull request on the [GitHub repository](https://sne-m23-sn.github.io/Top-10-API-Vulnerabilities-with-vAPI/).
 
-## License
-This guide is licensed under the [MIT License](LICENSE).
