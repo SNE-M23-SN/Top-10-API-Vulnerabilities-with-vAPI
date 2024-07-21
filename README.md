@@ -29,6 +29,12 @@ To get started with the "Exploiting the Top 10 API Vulnerabilities with vAPI" gu
 
 The GitHub Pages site will provide you with the complete guide, including detailed instructions, code examples, and resources to help you effectively exploit and understand the top 10 API vulnerabilities.
 
+Are you curious about how to **detect** the attacks mentioned in this project? Look no further! We've created a comprehensive guide to help you understand and detect these vulnerabilities. Click [here](https://sne-m23-sn.github.io/Top-10-API-Vulnerabilities-with-vAPI/Defense/) to access the guide and learn more about:
+
+1. **Broken Function-Level Authorization**
+2. **Security Misconfiguration**
+3. **Injection Attacks**
+
 ## Contributing
 If you have any suggestions, feedback, or would like to contribute to the development of this guide, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI).
 
